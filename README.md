@@ -1,6 +1,8 @@
 # Amazon RDS Proxy Demo Code
 
-This code accompanies the [Amazon RDS Proxy Demo video - EDIT THIS WHEN LINK IS AVAILABLE](https://www.youtube.com/user/AmazonWebServices).
+This code accompanies the [Amazon RDS Proxy Demo video](https://www.youtube.com/watch?v=ULRnn6tIYu8).
+
+[![Demo](.github/demo-video.png)](https://www.youtube.com/watch?v=ULRnn6tIYu8)
 
 ## Files
 
